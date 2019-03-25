@@ -1,6 +1,6 @@
 # WhatsApp
 
-# *Features
+# _Features
 ```bash
 -know deleted status
 -Custom online toast! Enable for specific people (change status seen circle color)
@@ -17,6 +17,7 @@
 -Support to download themes with home wallpaper from YoThemes store
 -Change deleted msg icon color
 -Option to pin group description to chats (Menu -> Group description)
+-dll,.
 
 
 *dnerzker
