@@ -1,6 +1,7 @@
 # WhatsApp
 
-"features"
+# *Features
+```bash
 -know deleted status
 -Custom online toast! Enable for specific people (change status seen circle color)
 -Meating MOD to pause internet for Whatsapp only
@@ -19,3 +20,4 @@
 
 
 *dnerzker
+```
